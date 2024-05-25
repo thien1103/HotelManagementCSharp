@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|c:\\users\\acer\\downloads\\hotelmanager\\hotelmanager\\hotelmanager\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\hotelmanager\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\hotelmanager\\faddstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\faddstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\hotelmanager\\faddstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\faddstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\hotelmanager\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\hotelmanager\\dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\hotelmanager\\dao\\accessdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\dao\\accessdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\hotelmanager\\faccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\faccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\hotelmanager\\faccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\faccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\HotelManager\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "HotelManager\\DAO\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\HotelManager\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "HotelManager\\DAO\\DataProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T10:09:03.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fLogin.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\HotelManager\\fLogin.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fLogin.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\HotelManager\\fLogin.cs",
+              "RelativeToolTip": "HotelManager\\fLogin.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAArwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T09:27:52.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\HotelManager\\fLogin.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fLogin.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\HotelManager\\fLogin.cs [Design]",
+              "RelativeToolTip": "HotelManager\\fLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T09:27:50.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fAddStaff.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\HotelManager\\fAddStaff.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fAddStaff.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\HotelManager\\fAddStaff.cs",
+              "RelativeToolTip": "HotelManager\\fAddStaff.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwDEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T09:08:25.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fAddStaff.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\HotelManager\\fAddStaff.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fAddStaff.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\HotelManager\\fAddStaff.cs [Design]",
+              "RelativeToolTip": "HotelManager\\fAddStaff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T09:08:20.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\HotelManager\\DAO\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "HotelManager\\DAO\\AccountDAO.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\HotelManager\\DAO\\AccountDAO.cs",
+              "RelativeToolTip": "HotelManager\\DAO\\AccountDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T09:07:12.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccessDAO.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\HotelManager\\DAO\\AccessDAO.cs",
+              "RelativeDocumentMoniker": "HotelManager\\DAO\\AccessDAO.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\HotelManager\\DAO\\AccessDAO.cs",
+              "RelativeToolTip": "HotelManager\\DAO\\AccessDAO.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T03:57:15.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "fAccess.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\HotelManager\\fAccess.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fAccess.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\HotelManager\\fAccess.cs",
+              "RelativeToolTip": "HotelManager\\fAccess.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T03:56:57.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fAccess.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\HotelManager\\fAccess.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fAccess.cs",
+              "ToolTip": "C:\\Users\\acer\\Downloads\\HotelManager\\HotelManager\\HotelManager\\fAccess.cs [Design]",
+              "RelativeToolTip": "HotelManager\\fAccess.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T03:07:36.175Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

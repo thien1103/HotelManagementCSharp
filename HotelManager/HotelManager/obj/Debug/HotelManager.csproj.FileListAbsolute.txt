@@ -1,0 +1,161 @@
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.AssemblyReference.cache
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.ResolveComReference.cache
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fAbout.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fAccess.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fAddCustomer.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fAddCustomerInfo.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fAddRoom.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fAddService.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fAddServiceType.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fAddStaff.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fAddStaffType.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fBill.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fBookRoomDetails.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fChangeRoom.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fCustomer.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fManagement.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fLogin.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fBookRoom.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fParameter.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fPrintBill.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fProfile.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fReceiveRoom.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fReceiveRoomDetails.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fReport.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fRoom.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fRoomType.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fService.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fServiceType.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fStaff.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fUpdateCustomerInfo.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.fUseService.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.Properties.Resources.resources
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.GenerateResource.cache
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\bin\Debug\HotelManager.exe.config
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\bin\Debug\HotelManager.exe
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\bin\Debug\HotelManager.pdb
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\bin\Debug\FlashControlV71.dll
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\bin\Debug\MetroFramework.dll
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.CopyComplete
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.exe
+C:\Users\Nguyen Khanh TV\source\repos\hotel-management\Source code\C# script\HotelManager\HotelManager\obj\Debug\HotelManager.pdb
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\bin\Debug\HotelManager.exe.config
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\bin\Debug\HotelManager.exe
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\bin\Debug\HotelManager.pdb
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\bin\Debug\FlashControlV71.dll
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.AssemblyReference.cache
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.ResolveComReference.cache
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fAbout.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fAccess.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fAddCustomer.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fAddCustomerInfo.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fAddRoom.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fAddService.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fAddServiceType.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fAddStaff.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fAddStaffType.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fBill.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fBookRoomDetails.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fChangeRoom.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fCustomer.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fManagement.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fLogin.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fBookRoom.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fParameter.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fPrintBill.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fProfile.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fReceiveRoom.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fReceiveRoomDetails.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fReport.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fRoom.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fRoomType.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fService.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fServiceType.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fStaff.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fUpdateCustomerInfo.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.fUseService.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.Properties.Resources.resources
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.GenerateResource.cache
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.CopyComplete
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.exe
+C:\Users\Nguyen Khanh TV\source\repos\HotelManager\HotelManager\obj\Debug\HotelManager.pdb
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\bin\Debug\HotelManager.exe.config
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\bin\Debug\HotelManager.exe
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\bin\Debug\HotelManager.pdb
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\bin\Debug\FlashControlV71.dll
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.ResolveComReference.cache
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fAbout.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fAccess.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fAddCustomer.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fAddCustomerInfo.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fAddRoom.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fAddService.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fAddServiceType.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fAddStaff.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fAddStaffType.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fBill.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fBookRoomDetails.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fChangeRoom.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fCustomer.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fManagement.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fLogin.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fBookRoom.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fParameter.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fPrintBill.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fProfile.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fReceiveRoom.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fReceiveRoomDetails.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fReport.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fRoom.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fRoomType.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fService.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fServiceType.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fStaff.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fUpdateCustomerInfo.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fUseService.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.Properties.Resources.resources
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.GenerateResource.cache
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelMan.D309C9BB.Up2Date
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.exe
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.pdb
+C:\Users\acer\Downloads\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fAddRoomType.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.AssemblyReference.cache
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.ResolveComReference.cache
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fAbout.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fAccess.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fAddCustomer.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fAddCustomerInfo.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fAddRoom.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fAddRoomType.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fAddService.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fAddServiceType.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fAddStaff.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fAddStaffType.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fBill.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fBookRoomDetails.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fChangeRoom.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fCustomer.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fManagement.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fLogin.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fBookRoom.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fParameter.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fPrintBill.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fProfile.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fReceiveRoom.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fReceiveRoomDetails.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fReport.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fRoom.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fRoomType.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fService.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fServiceType.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fStaff.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fUpdateCustomerInfo.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.fUseService.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.Properties.Resources.resources
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.GenerateResource.cache
+D:\HotelManager\HotelManager\HotelManager\obj\Debug\HotelManager.csproj.CoreCompileInputs.cache
